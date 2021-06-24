@@ -52,3 +52,12 @@ img {
   width: 100%;
   max-width: 1000px;
 }
+
+.coming-soon {
+  display: flex;
+
+}
+
+.fa {
+  align-self: center;
+}
